@@ -2,10 +2,7 @@
 
 ## Project Overview
 
-This project analyzes inventory performance, stock availability, reorder requirements, supplier performance, and inventory risks using Excel and Power BI.
-
-The objective is to help management monitor inventory levels, identify products requiring replenishment, evaluate supplier reliability, and reduce stockout risks.
-
+This project analyzes inventory performance, stock availability, reorder requirements, supplier performance, and inventory risks using Microsoft Excel, Power BI, and DAX. The dashboard enables inventory monitoring, supplier evaluation, and proactive replenishment planning.
 ---
 
 ## Project Highlights
@@ -24,6 +21,13 @@ The objective is to help management monitor inventory levels, identify products 
 - Microsoft Excel
 - Power BI
 - DAX
+
+---
+### Excel Activities
+- Data Cleaning
+- Data Validation
+- Inventory Quality Checks
+- Business Rule Creation
 
 ---
 
@@ -121,4 +125,4 @@ Activities performed:
 
 ## Conclusion
 
-The dashboard provides a complete inventory monitoring solution by combining inventory performance, supplier reliability, and reorder risk analysis. It enables management teams to make data-driven inventory decisions, reduce stockout risks, and improve supplier management.
+The analysis identified 141 products requiring reorder and highlighted critical A-Class inventory items that need immediate attention. Supplier lead time and rating analysis provided visibility into procurement performance, while warehouse and category-level insights supported better inventory planning and stock management decisions.
