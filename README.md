@@ -4,6 +4,7 @@
 
 This project analyzes inventory performance, stock availability, reorder requirements, supplier performance, and inventory risks using Microsoft Excel, Power BI, and DAX. The dashboard enables inventory monitoring, supplier evaluation, and proactive replenishment planning.
 
+---
 
 ## Project Highlights
 
